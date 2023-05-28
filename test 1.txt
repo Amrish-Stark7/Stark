@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Hi
 hw r u
+=======
+Hi karthik
+hi ambrish
+Hiammu
+>>>>>>> f1544287afeba1801933d0c17030a1aa8fee49f9
